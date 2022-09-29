@@ -1,2 +1,2 @@
-# skola labb 2022
+# skol labb 2022
 assignments during school
